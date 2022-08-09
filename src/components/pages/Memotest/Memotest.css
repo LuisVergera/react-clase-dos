@@ -1,0 +1,11 @@
+.card-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  height: 500px;
+  width: 400px;
+  margin: 0 auto;
+}
+
+.image {
+  margin: /*0 auto;*/ 10px;
+}
